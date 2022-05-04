@@ -1,0 +1,7 @@
+requests
+json
+assertpy
+xlrd
+pytest
+re
+urllib3
